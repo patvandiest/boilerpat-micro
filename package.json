@@ -1,0 +1,43 @@
+{
+  "name": "boilerpat-micro",
+  "description": "Boilerplate starter template for developing simple microsite using HTML5/CSS", 
+  "version": "0.0.1",
+  "homepage": "https://github.com/patvandiest/boilerpat-micro",
+  "author": {
+    "name": "Patrick Gerard van Diest",
+    "url": "http://patvandiest.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patvandiest/boilerpat-micro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patvandiest/boilerpat-micro/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/gruntjs/grunt-contrib-watch/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-sass": "~0.4.0",
+    "grunt-contrib-imagemin": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-svgmin": "~0.2.0",
+    "grunt-concurrent": "~0.3.0",
+    "time-grunt": "~0.1.1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
